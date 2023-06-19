@@ -1,2 +1,1 @@
-# Proctur
-new repo
+# AWSCodeDeploySampleTomcat
